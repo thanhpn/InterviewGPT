@@ -136,7 +136,7 @@ By sponsoring this free, open-source project, you not only have the opportunity 
 
 ---
 
-AgentGPT allows you to configure and deploy Autonomous AI agents.
+InterviewGPT allows you to configure and deploy Autonomous AI agents.
 Name your own custom AI and have it embark on any goal imaginable.
 It will attempt to reach the goal by thinking of tasks to do, executing them, and learning from the results 🚀.
 
